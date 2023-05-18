@@ -42,3 +42,7 @@ intro-wrapper{
 #begin-button:hover{
     background-color: #7f7053;
 }
+
+popup {
+    display: none;
+}
